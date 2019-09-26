@@ -22,7 +22,7 @@ title: MT Site
 email: martinzh@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stay hungry, stay foolish.
-baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  martinzh717
